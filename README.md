@@ -1,4 +1,4 @@
-![MasterHead](https://giffiles.alphacoders.com/220/220234.gif)]
+![MasterHead](https://giffiles.alphacoders.com/220/220234.gif)
 <h1 align="center">Hello, I am Om Saxena</h1>
 <h3 align="center">Full-Stack Developer from India | Trying to turn Ideas into Scalable Realities</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif">
