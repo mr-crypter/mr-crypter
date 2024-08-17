@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Never trust on people who use SQL in lowercase**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
