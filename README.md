@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-crypter&label=Profile%20views&color=0e75b6&style=flat" alt="mr-crypter" /> </p>
 
-- 🔭 I’m currently working on **Blockchain Based E-Voting System**
+- 🔭 I’m currently working on **AI Bubble**
 
 - 📫 How to reach me **omsaxena.137@gmail.com**
 
