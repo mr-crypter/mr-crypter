@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=mr-crypter&show_icons=true&theme=dark
+          options: username=mr-crypter&show_icons=true&theme=dark&include_all_commits=true&show=prs_merged,prs_merged_percentage
           path: assets/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
