@@ -31,6 +31,13 @@ jobs:
           path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate streak stats card
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=mr-crypter&theme=dark
+          path: assets/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit updated SVGs
         run: |
           git config user.name "github-actions[bot]"

@@ -42,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="assets/stats.svg" alt="mr-crypter" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-crypter&theme=dark" alt="mr-crypter" /></p>
+<p><img align="center" src="assets/streak.svg" alt="mr-crypter" /></p>
