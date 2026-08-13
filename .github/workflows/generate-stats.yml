@@ -27,7 +27,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=mr-crypter&layout=compact&theme=dark
+          options: username=mr-crypter&layout=compact&theme=dark&hide=jupyter%20notebook
           path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
