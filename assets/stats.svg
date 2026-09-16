@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Om Saxena&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 11, Total Commits  : 685, Total PRs: 96, Total PRs Merged: 86, Merged PRs Percentage: 89.58, Total Issues: 0, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 11, Total Commits  : 685, Total PRs: 98, Total PRs Merged: 86, Merged PRs Percentage: 87.76, Total Issues: 0, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 159.75969831916808;
+        stroke-dashoffset: 159.30567198885447;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >96</text>
+      >98</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >89.58 %</text>
+      >87.76 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
