@@ -37,10 +37,10 @@ jobs:
           committer_message: "chore: refresh metrics infographic"
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_ignored: jupyter notebook
-          plugin_languages_colors: github
+          # plugin_languages is disabled on purpose. It can only see repos
+          # mr-crypter owns, so it reported no C++ at all even though C++ is
+          # the second-largest language once the org repos are counted.
+          # The "Measure languages" step below builds an accurate bar instead.
           # plugin_habits and plugin_achievements are disabled: both are broken
           # upstream in v3.34, not misconfigured. See the note in README history.
           #   habits       -> crashes on push events with no payload.commits
@@ -55,6 +55,11 @@ jobs:
           outputs: |
             assets/snake.svg?palette=github-light
             assets/snake-dark.svg?palette=github-dark
+
+      - name: Measure languages
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+        run: python3 .github/build-languages-svg.py
 
       - name: Rotate fun fact
         run: |

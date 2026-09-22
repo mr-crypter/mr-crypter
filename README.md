@@ -48,6 +48,7 @@
 
 <h3 align="left">GitHub Metrics:</h3>
 <p align="left"><img src="assets/metrics.svg" alt="mr-crypter's GitHub metrics" width="100%" /></p>
+<p align="left"><img src="assets/languages.svg" alt="Most used languages" width="100%" /></p>
 
 <h3 align="left">Contribution Graph:</h3>
 <p align="left">
