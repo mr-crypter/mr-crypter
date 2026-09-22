@@ -47,10 +47,13 @@
 <br clear="both" />
 
 <h3 align="left">GitHub Metrics:</h3>
-<p align="center"><img src="assets/metrics.svg" alt="mr-crypter's GitHub metrics" /></p>
+<p align="left"><img src="assets/metrics.svg" alt="mr-crypter's GitHub metrics" width="100%" /></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/snake.svg" />
-  <img alt="Contribution snake animation" src="assets/snake.svg" />
-</picture>
+<h3 align="left">Contribution Graph:</h3>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/snake.svg" />
+    <img alt="Contribution snake animation" src="assets/snake.svg" width="100%" />
+  </picture>
+</p>

@@ -26,6 +26,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
+          config_display: large
           committer_token: ${{ secrets.PROFILE_TOKEN }}
           committer_branch: main
           committer_message: "chore: refresh metrics infographic"
@@ -35,13 +36,12 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_ignored: jupyter notebook
           plugin_languages_colors: github
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_charts: yes
-          plugin_habits_facts: yes
-          plugin_achievements: yes
-          plugin_achievements_threshold: B
-          plugin_achievements_display: compact
+          # plugin_habits and plugin_achievements are disabled: both are broken
+          # upstream in v3.34, not misconfigured. See the note in README history.
+          #   habits       -> crashes on push events with no payload.commits
+          #                   (branch/tag deletions), habits/index.mjs:51
+          #   achievements -> its GraphQL query still asks for Projects (classic),
+          #                   which GitHub sunset, so the API returns NOT_FOUND
 
       - name: Generate contribution snake
         uses: Platane/snk@v3
