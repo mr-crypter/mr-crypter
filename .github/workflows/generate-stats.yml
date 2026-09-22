@@ -27,16 +27,11 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
           config_display: large
-          # Count org repos too, otherwise all C++ is invisible: it lives
-          # entirely in 0xMidax/crypto-trader and 0xMidax/Phoenix-strategy.
-          # dapplooker is ~70 repos that would swamp the result, so skip the
-          # org and add back only loky-backend.
-          repositories_affiliations: owner, organization_member
-          repositories_skipped: |
-            @use.patterns
-
-            dapplooker/*
-            +dapplooker/loky-backend
+          # NOTE: all C++ lives in the private 0xMidax org repos, which this
+          # card does not count (it only counts repos mr-crypter owns).
+          # Widening via repositories_affiliations does not work: the fetch is
+          # capped at 100 repos BEFORE repositories_skipped is applied, so
+          # dapplooker's ~73 repos crowd everything else out.
           committer_token: ${{ secrets.PROFILE_TOKEN }}
           committer_branch: main
           committer_message: "chore: refresh metrics infographic"
