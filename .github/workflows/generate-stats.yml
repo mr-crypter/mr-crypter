@@ -26,7 +26,9 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
-          output_action: none
+          committer_token: ${{ secrets.PROFILE_TOKEN }}
+          committer_branch: main
+          committer_message: "chore: refresh metrics infographic"
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
