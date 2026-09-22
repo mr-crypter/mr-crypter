@@ -38,8 +38,13 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="assets/top-langs.svg" alt="mr-crypter" /></p>
+<br clear="both" />
 
-<p>&nbsp;<img align="center" src="assets/stats.svg" alt="mr-crypter" /></p>
+<h3 align="left">GitHub Metrics:</h3>
+<p align="center"><img src="assets/metrics.svg" alt="mr-crypter's GitHub metrics" /></p>
 
-<p><img align="center" src="assets/streak.svg" alt="mr-crypter" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/snake.svg" />
+  <img alt="Contribution snake animation" src="assets/snake.svg" />
+</picture>
