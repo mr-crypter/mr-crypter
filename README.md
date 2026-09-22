@@ -1,4 +1,4 @@
-![MasterHead](https://giffiles.alphacoders.com/220/220234.gif)
+<p align="center"><img src="https://giffiles.alphacoders.com/220/220234.gif" alt="MasterHead" width="700" /></p>
 <h1 align="center">Hello, I am Om Saxena</h1>
 <h3 align="center">Backend Engineer building low-latency trading infrastructure</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif">
