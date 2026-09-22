@@ -1,0 +1,25 @@
+Never trust people who use SQL in lowercase
+There are only two hard problems in distributed systems: 2. exactly-once delivery, 1. ordering, 2. exactly-once delivery
+The fastest code is the code that never allocates
+A microsecond saved in the hot path is a microsecond earned every single tick
+Every "temporary" Redis key outlives the service that created it
+Premature optimization is the root of all evil, except in the order book
+Nobody has ever read the second page of a stack trace and felt better
+The database is not a queue, but it will pretend to be one until it isn't
+`git blame` is a technology for discovering that you were the problem
+There is no such thing as a small schema migration at 4pm on a Friday
+p99 latency is where your architecture goes to confess
+Cache invalidation is easy if you simply never invalidate anything
+A backtest that looks too good is a bug report you haven't opened yet
+Floating point is fine for money right up until it very much isn't
+The best logging statement is the one you added before the incident
+Every retry loop is a DDoS attack with good intentions
+Kafka does not lose your messages, your consumer group offset does
+Any sufficiently advanced bash script is indistinguishable from a liability
+The C++ compiler is not slow, it is thinking about your life choices
+Writing it in Rust does not make the race condition go away, it just makes it yours
+Latency is a feature request until it becomes an incident report
+If the tests pass on the first run, the tests are wrong
+An index is a promise you make to your future self and then forget
+Observability is just printf with a budget
+The only truly idempotent operation is doing nothing

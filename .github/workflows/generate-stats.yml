@@ -2,7 +2,7 @@ name: Generate GitHub Stats SVGs
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # every 6 hours
+    - cron: "0 0 * * *"  # daily
   workflow_dispatch: {}
 
 concurrency:
@@ -51,12 +51,37 @@ jobs:
             assets/snake.svg?palette=github-light
             assets/snake-dark.svg?palette=github-dark
 
+      - name: Rotate fun fact
+        run: |
+          python3 - <<'PY'
+          import random, re, pathlib
+
+          readme = pathlib.Path("README.md")
+          facts = [
+              line.strip()
+              for line in pathlib.Path(".github/fun-facts.txt").read_text(encoding="utf-8").splitlines()
+              if line.strip()
+          ]
+          text = readme.read_text(encoding="utf-8")
+          pattern = re.compile(
+              r"(?<=<!--FUN_FACT_START-->).*?(?=<!--FUN_FACT_END-->)", re.DOTALL
+          )
+          current = pattern.search(text)
+          if current is None:
+              raise SystemExit("fun fact markers not found in README.md")
+
+          # Never pick the fact already on display, so the daily run always visibly changes.
+          choices = [f for f in facts if f"**{f}**" != current.group(0)] or facts
+          text = pattern.sub(lambda _: f"**{random.choice(choices)}**", text, count=1)
+          readme.write_text(text, encoding="utf-8")
+          PY
+
       - name: Commit updated SVGs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/*.svg
+          git add assets/*.svg README.md
           git diff --staged --quiet && exit 0
-          git commit -m "chore: refresh GitHub stats SVGs"
+          git commit -m "chore: refresh stats SVGs and fun fact"
           git pull --rebase --autostash
           git push
