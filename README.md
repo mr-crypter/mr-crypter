@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **omsaxena.137@gmail.com**
 
-- ⚡ Fun fact <!--FUN_FACT_START-->**Never trust people who use SQL in lowercase**<!--FUN_FACT_END-->
+- ⚡ Fun fact <!--FUN_FACT_START-->**An index is a promise you make to your future self and then forget**<!--FUN_FACT_END-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
