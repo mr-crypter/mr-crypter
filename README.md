@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **omsaxena.137@gmail.com**
 
-- ⚡ Fun fact <!--FUN_FACT_START-->**Every "temporary" Redis key outlives the service that created it**<!--FUN_FACT_END-->
+- ⚡ Fun fact <!--FUN_FACT_START-->**Nobody has ever read the second page of a stack trace and felt better**<!--FUN_FACT_END-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
