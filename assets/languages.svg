@@ -2,23 +2,23 @@
 <text x="20" y="28" fill="#58a6ff" font-size="15" font-weight="600">Most used languages</text>
 <clipPath id="bar"><rect x="20" y="46" width="920" height="10" rx="5.0"/></clipPath>
 <g clip-path="url(#bar)">
-<rect x="20.00" y="46" width="657.02" height="10" fill="#3178c6"/>
-<rect x="677.02" y="46" width="178.09" height="10" fill="#f34b7d"/>
-<rect x="855.11" y="46" width="47.84" height="10" fill="#3572A5"/>
-<rect x="902.95" y="46" width="15.04" height="10" fill="#f1e05a"/>
-<rect x="917.99" y="46" width="9.10" height="10" fill="#89e051"/>
-<rect x="927.09" y="46" width="6.63" height="10" fill="#DA3434"/>
-<rect x="933.72" y="46" width="3.72" height="10" fill="#336790"/>
+<rect x="20.00" y="46" width="657.15" height="10" fill="#3178c6"/>
+<rect x="677.15" y="46" width="178.00" height="10" fill="#f34b7d"/>
+<rect x="855.16" y="46" width="47.81" height="10" fill="#3572A5"/>
+<rect x="902.97" y="46" width="15.04" height="10" fill="#f1e05a"/>
+<rect x="918.00" y="46" width="9.09" height="10" fill="#89e051"/>
+<rect x="927.10" y="46" width="6.63" height="10" fill="#DA3434"/>
+<rect x="933.72" y="46" width="3.71" height="10" fill="#336790"/>
 <rect x="937.43" y="46" width="2.57" height="10" fill="#663399"/>
 </g>
 <circle cx="25.00" cy="84.00" r="5" fill="#3178c6"/>
-<text x="38.00" y="88.00" fill="#9CA3AF" font-size="13">TypeScript 71.42%</text>
+<text x="38.00" y="88.00" fill="#9CA3AF" font-size="13">TypeScript 71.43%</text>
 <circle cx="255.00" cy="84.00" r="5" fill="#f34b7d"/>
-<text x="268.00" y="88.00" fill="#9CA3AF" font-size="13">C++ 19.36%</text>
+<text x="268.00" y="88.00" fill="#9CA3AF" font-size="13">C++ 19.35%</text>
 <circle cx="485.00" cy="84.00" r="5" fill="#3572A5"/>
 <text x="498.00" y="88.00" fill="#9CA3AF" font-size="13">Python 5.20%</text>
 <circle cx="715.00" cy="84.00" r="5" fill="#f1e05a"/>
-<text x="728.00" y="88.00" fill="#9CA3AF" font-size="13">JavaScript 1.64%</text>
+<text x="728.00" y="88.00" fill="#9CA3AF" font-size="13">JavaScript 1.63%</text>
 <circle cx="25.00" cy="110.00" r="5" fill="#89e051"/>
 <text x="38.00" y="114.00" fill="#9CA3AF" font-size="13">Shell 0.99%</text>
 <circle cx="255.00" cy="110.00" r="5" fill="#DA3434"/>
