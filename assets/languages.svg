@@ -2,19 +2,19 @@
 <text x="20" y="28" fill="#58a6ff" font-size="15" font-weight="600">Most used languages</text>
 <clipPath id="bar"><rect x="20" y="46" width="920" height="10" rx="5.0"/></clipPath>
 <g clip-path="url(#bar)">
-<rect x="20.00" y="46" width="641.96" height="10" fill="#3178c6"/>
-<rect x="661.96" y="46" width="195.81" height="10" fill="#f34b7d"/>
-<rect x="857.76" y="46" width="44.59" height="10" fill="#3572A5"/>
-<rect x="902.36" y="46" width="14.07" height="10" fill="#f1e05a"/>
+<rect x="20.00" y="46" width="642.09" height="10" fill="#3178c6"/>
+<rect x="662.09" y="46" width="195.70" height="10" fill="#f34b7d"/>
+<rect x="857.79" y="46" width="44.58" height="10" fill="#3572A5"/>
+<rect x="902.37" y="46" width="14.06" height="10" fill="#f1e05a"/>
 <rect x="916.43" y="46" width="10.58" height="10" fill="#89e051"/>
-<rect x="927.00" y="46" width="6.31" height="10" fill="#DA3434"/>
+<rect x="927.01" y="46" width="6.31" height="10" fill="#DA3434"/>
 <rect x="933.31" y="46" width="4.03" height="10" fill="#336790"/>
 <rect x="937.34" y="46" width="2.66" height="10" fill="#663399"/>
 </g>
 <circle cx="25.00" cy="84.00" r="5" fill="#3178c6"/>
-<text x="38.00" y="88.00" fill="#9CA3AF" font-size="13">TypeScript 69.78%</text>
+<text x="38.00" y="88.00" fill="#9CA3AF" font-size="13">TypeScript 69.79%</text>
 <circle cx="255.00" cy="84.00" r="5" fill="#f34b7d"/>
-<text x="268.00" y="88.00" fill="#9CA3AF" font-size="13">C++ 21.28%</text>
+<text x="268.00" y="88.00" fill="#9CA3AF" font-size="13">C++ 21.27%</text>
 <circle cx="485.00" cy="84.00" r="5" fill="#3572A5"/>
 <text x="498.00" y="88.00" fill="#9CA3AF" font-size="13">Python 4.85%</text>
 <circle cx="715.00" cy="84.00" r="5" fill="#f1e05a"/>
