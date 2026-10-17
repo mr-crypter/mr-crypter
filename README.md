@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **omsaxena.137@gmail.com**
 
-- ⚡ Fun fact <!--FUN_FACT_START-->**If the tests pass on the first run, the tests are wrong**<!--FUN_FACT_END-->
+- ⚡ Fun fact <!--FUN_FACT_START-->**Floating point is fine for money right up until it very much isn't**<!--FUN_FACT_END-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
