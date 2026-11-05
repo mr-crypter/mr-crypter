@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **omsaxena.137@gmail.com**
 
-- ⚡ Fun fact <!--FUN_FACT_START-->**The best logging statement is the one you added before the incident**<!--FUN_FACT_END-->
+- ⚡ Fun fact <!--FUN_FACT_START-->**Observability is just printf with a budget**<!--FUN_FACT_END-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
