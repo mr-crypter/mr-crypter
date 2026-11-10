@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **omsaxena.137@gmail.com**
 
-- ⚡ Fun fact <!--FUN_FACT_START-->**Every retry loop is a DDoS attack with good intentions**<!--FUN_FACT_END-->
+- ⚡ Fun fact <!--FUN_FACT_START-->**Latency is a feature request until it becomes an incident report**<!--FUN_FACT_END-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
