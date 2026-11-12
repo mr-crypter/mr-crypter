@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **omsaxena.137@gmail.com**
 
-- ⚡ Fun fact <!--FUN_FACT_START-->**Premature optimization is the root of all evil, except in the order book**<!--FUN_FACT_END-->
+- ⚡ Fun fact <!--FUN_FACT_START-->**The C++ compiler is not slow, it is thinking about your life choices**<!--FUN_FACT_END-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
