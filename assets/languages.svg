@@ -2,27 +2,27 @@
 <text x="20" y="28" fill="#58a6ff" font-size="15" font-weight="600">Most used languages</text>
 <clipPath id="bar"><rect x="20" y="46" width="920" height="10" rx="5.0"/></clipPath>
 <g clip-path="url(#bar)">
-<rect x="20.00" y="46" width="621.45" height="10" fill="#3178c6"/>
-<rect x="641.45" y="46" width="164.27" height="10" fill="#f34b7d"/>
-<rect x="805.72" y="46" width="68.46" height="10" fill="#3572A5"/>
-<rect x="874.18" y="46" width="34.92" height="10" fill="#dea584"/>
-<rect x="909.09" y="46" width="11.39" height="10" fill="#f1e05a"/>
-<rect x="920.49" y="46" width="9.00" height="10" fill="#89e051"/>
-<rect x="929.49" y="46" width="5.43" height="10" fill="#336790"/>
-<rect x="934.92" y="46" width="5.08" height="10" fill="#DA3434"/>
+<rect x="20.00" y="46" width="622.83" height="10" fill="#3178c6"/>
+<rect x="642.83" y="46" width="163.51" height="10" fill="#f34b7d"/>
+<rect x="806.34" y="46" width="68.14" height="10" fill="#3572A5"/>
+<rect x="874.48" y="46" width="34.75" height="10" fill="#dea584"/>
+<rect x="909.24" y="46" width="11.34" height="10" fill="#f1e05a"/>
+<rect x="920.58" y="46" width="8.96" height="10" fill="#89e051"/>
+<rect x="929.54" y="46" width="5.41" height="10" fill="#336790"/>
+<rect x="934.94" y="46" width="5.06" height="10" fill="#DA3434"/>
 </g>
 <circle cx="25.00" cy="84.00" r="5" fill="#3178c6"/>
-<text x="38.00" y="88.00" fill="#9CA3AF" font-size="13">TypeScript 67.55%</text>
+<text x="38.00" y="88.00" fill="#9CA3AF" font-size="13">TypeScript 67.70%</text>
 <circle cx="255.00" cy="84.00" r="5" fill="#f34b7d"/>
-<text x="268.00" y="88.00" fill="#9CA3AF" font-size="13">C++ 17.85%</text>
+<text x="268.00" y="88.00" fill="#9CA3AF" font-size="13">C++ 17.77%</text>
 <circle cx="485.00" cy="84.00" r="5" fill="#3572A5"/>
-<text x="498.00" y="88.00" fill="#9CA3AF" font-size="13">Python 7.44%</text>
+<text x="498.00" y="88.00" fill="#9CA3AF" font-size="13">Python 7.41%</text>
 <circle cx="715.00" cy="84.00" r="5" fill="#dea584"/>
-<text x="728.00" y="88.00" fill="#9CA3AF" font-size="13">Rust 3.80%</text>
+<text x="728.00" y="88.00" fill="#9CA3AF" font-size="13">Rust 3.78%</text>
 <circle cx="25.00" cy="110.00" r="5" fill="#f1e05a"/>
-<text x="38.00" y="114.00" fill="#9CA3AF" font-size="13">JavaScript 1.24%</text>
+<text x="38.00" y="114.00" fill="#9CA3AF" font-size="13">JavaScript 1.23%</text>
 <circle cx="255.00" cy="110.00" r="5" fill="#89e051"/>
-<text x="268.00" y="114.00" fill="#9CA3AF" font-size="13">Shell 0.98%</text>
+<text x="268.00" y="114.00" fill="#9CA3AF" font-size="13">Shell 0.97%</text>
 <circle cx="485.00" cy="110.00" r="5" fill="#336790"/>
 <text x="498.00" y="114.00" fill="#9CA3AF" font-size="13">PLpgSQL 0.59%</text>
 <circle cx="715.00" cy="110.00" r="5" fill="#DA3434"/>
