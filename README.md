@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **omsaxena.137@gmail.com**
 
-- ⚡ Fun fact <!--FUN_FACT_START-->**There is no such thing as a small schema migration at 4pm on a Friday**<!--FUN_FACT_END-->
+- ⚡ Fun fact <!--FUN_FACT_START-->**The only truly idempotent operation is doing nothing**<!--FUN_FACT_END-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
