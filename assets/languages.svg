@@ -2,11 +2,11 @@
 <text x="20" y="28" fill="#58a6ff" font-size="15" font-weight="600">Most used languages</text>
 <clipPath id="bar"><rect x="20" y="46" width="920" height="10" rx="5.0"/></clipPath>
 <g clip-path="url(#bar)">
-<rect x="20.00" y="46" width="622.30" height="10" fill="#3178c6"/>
-<rect x="642.30" y="46" width="164.47" height="10" fill="#f34b7d"/>
-<rect x="806.77" y="46" width="67.92" height="10" fill="#3572A5"/>
+<rect x="20.00" y="46" width="622.31" height="10" fill="#3178c6"/>
+<rect x="642.31" y="46" width="164.47" height="10" fill="#f34b7d"/>
+<rect x="806.78" y="46" width="67.91" height="10" fill="#3572A5"/>
 <rect x="874.69" y="46" width="34.64" height="10" fill="#dea584"/>
-<rect x="909.32" y="46" width="11.30" height="10" fill="#f1e05a"/>
+<rect x="909.33" y="46" width="11.30" height="10" fill="#f1e05a"/>
 <rect x="920.63" y="46" width="8.93" height="10" fill="#89e051"/>
 <rect x="929.56" y="46" width="5.39" height="10" fill="#336790"/>
 <rect x="934.94" y="46" width="5.06" height="10" fill="#DA3434"/>
